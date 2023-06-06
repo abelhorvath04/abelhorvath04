@@ -1,7 +1,7 @@
 - 👋 Hi, I’m abelhorvath!
 - 👀 I’m interested in coding and music.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
-- 💞️ I’m looking to collaborate on I don't know it yet.
+- 💞️ I’m looking to collaborate on a lot of stuff.
 - 📫 How to reach me: message.
 
 <!---
