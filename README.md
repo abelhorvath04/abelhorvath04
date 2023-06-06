@@ -1,6 +1,6 @@
 - 👋 Hi, I’m abelhorvath!
 - 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 I’m currently learning Full-stack.
 - 💞️ I’m looking to collaborate on a lot of stuff.
 - 📫 How to reach me: message.
 
