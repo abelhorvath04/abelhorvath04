@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ábel Horváth-Szarka
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning Full-stack (REACT & Laravel) and from September DevOps Software Engineering philosophy and technique
+- 🌱 I’m currently learning at FH Burgenland - Software Engineering.
 - 💞️ I’m looking to collaborate, work, exchange experience
 - 📫 How to reach me: message, email or https://abelhorvathszarka.com
 
