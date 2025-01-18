@@ -1,13 +1,13 @@
 # 💻 hi!  
 
-- i am ábel
+- i am abel
 - working on apps, web, school projects
 - java, springboot, angular and microservices that concerns me nowadays
-- contact me freely
+- contact me freely - [linkedin](https://www.linkedin.com/in/%C3%A1bel-horv%C3%A1th-szarka-894515258/)
 
 ---
 
-## technology:
+## technology
 
 <p align="left">
   <!-- Frontend -->
@@ -50,16 +50,13 @@
   <img src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/256.png" alt="Raspberry Pi" width="40" height="40" />
 </p>
 
-
----
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abelhorvath04&show_icons=true&locale=en&layout=compact" alt="abelhorvath04" />
-</p>
-
 ---
 
 - [github](https://github.com/abelhorvath04)
 - [site](https://abelhorvathszarka.com)  
-- [mail](mailto:abelhorvathszarka@abelhorvathszarka.com)  
+- [mail](mailto:abelhorvathszarka@abelhorvathszarka.com)
+
+---
+
+thanks for watchin' :)
 
