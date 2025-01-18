@@ -25,7 +25,6 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
-  <img src="https://jpmorgenthal.com/wp-content/uploads/2021/01/Microservices.png" alt="Microservices" width="40" height="40" />
 
   <!-- Database -->
   <strong>database</strong><br>
@@ -42,7 +41,6 @@
   <strong>shell & tools</strong><br>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" />
   <img src="https://img.icons8.com/plasticine/200/bash.png" alt="Postman" width="40" height="40" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQoSzgvGaxli5kN8IgV0J3BtEE2PQS3GDBg&s" alt="Postman" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
   
   <!-- Hardware -->
