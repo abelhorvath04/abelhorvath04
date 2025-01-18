@@ -35,7 +35,6 @@
   <strong>containerization & devops</strong><br>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CI/CD" width="40" height="40" />
 
   <!-- Shell & Tools -->
   <strong>shell & tools</strong><br>
