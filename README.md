@@ -2,7 +2,7 @@
 
 - i am abel
 - working on apps, web, school projects
-- java, springboot, angular and microservices that concerns me nowadays
+- java, springboot, nestjs, angular and microservices that concerns me nowadays
 - contact me freely - [linkedin](https://www.linkedin.com/in/%C3%A1bel-horv%C3%A1th-szarka-894515258/)
 
 ---
@@ -14,6 +14,7 @@
   <strong>frontend</strong><br>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40" />
   <img src="https://www.azoft.com/wp-content/uploads/2017/10/nativescript@3x.png" alt="NativeScript" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" />
