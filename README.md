@@ -39,7 +39,7 @@
 
   <!-- Shell & Tools -->
   <strong>shell & tools</strong><br>
-  <img src="[https://www.vectorlogo.zone/logos/linux/linux-icon.svg](https://raw.githubusercontent.com/vital987/vital987/master/assets/linux.svg)" alt="Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/vital987/vital987/master/assets/linux.svg" alt="Linux" width="40" height="40" />
   <img src="https://img.icons8.com/plasticine/200/bash.png" alt="Postman" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
   
