@@ -50,7 +50,6 @@
 
 ---
 
-- [github](https://github.com/abelhorvath04)
 - [mail](mailto:abelhorvathszarka@abelhorvathszarka.com)
 
 ---
